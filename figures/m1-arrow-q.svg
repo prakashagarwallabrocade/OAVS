@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 70" width="280" height="70">
+<g transform="translate(5,5)"><rect x="0" y="0" width="60" height="60" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<g transform="rotate(0 30 30)"><line x1="30" y1="48" x2="30" y2="14" stroke="#111" stroke-width="3"/><path d="M30 8 l-8 12 h16 z" fill="#111"/></g>
+</g>
+<g transform="translate(73,5)"><rect x="0" y="0" width="60" height="60" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<g transform="rotate(45 30 30)"><line x1="30" y1="48" x2="30" y2="14" stroke="#111" stroke-width="3"/><path d="M30 8 l-8 12 h16 z" fill="#111"/></g>
+</g>
+<g transform="translate(141,5)"><rect x="0" y="0" width="60" height="60" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<g transform="rotate(90 30 30)"><line x1="30" y1="48" x2="30" y2="14" stroke="#111" stroke-width="3"/><path d="M30 8 l-8 12 h16 z" fill="#111"/></g>
+</g>
+<g transform="translate(209,5)"><rect x="0" y="0" width="60" height="60" fill="#fff" stroke="#111" stroke-width="1.5"/>
+<text x="30" y="42" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#111">?</text>
+</g>
+</svg>
